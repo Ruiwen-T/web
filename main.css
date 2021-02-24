@@ -1,0 +1,35 @@
+/*Raven (Ruiwen) Tang
+IntroCS pd05 sec08
+HW05 -- Stuylin'': Modifying the page created for HW03 with CSS
+2021-02-24*/
+
+html{
+	background-color: #BBBBE5; /*background color of entire page is changed to color corresponding with hex code*/	
+}
+
+h1{
+	color: #4545E7; /*changes text color of h1 tags*/
+	font-family: cursive; /*changes text of h1 tags to cursive*/
+}
+
+h2{
+	color: #4545E7; /*changes text color of h2 tags*/
+}
+
+h3{
+	color: #4545E7; /*changes text color of h3 tags*/
+}
+
+img{
+	border: solid thick blue; /*border around images*/
+	display: center; /*centers images*/
+}
+
+p{
+	background-color: #AECBF3; /*changes background color for p tag*/
+}
+
+ul{
+	background-color: #73AAF6; /*changes background color for ul tag*/
+	border: dashed purple; /*border around unordered lists*/
+}
